@@ -29,12 +29,9 @@ date:
  24 hours: False
  
 positions:
- #- First position
- #- A second position
- #- A third position
- #- ...
+ - First position
 locations:
- #- First location
+ - First location
  #- A second location
  #- A third location
  #- ...
@@ -43,7 +40,7 @@ distance: 25
 outputFileDirectory: C:\Users\myDirectory\
 
 companyBlacklist:
- #- company
+ - company
  #- company2
 
 titleBlacklist:
